@@ -17,3 +17,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Et voluptatibus placeat
 ### How to start
 To start project use command
 > git init start My Project  
+### Website Link: [ccitworld](http:/www.ccitworld.com)
+
+### Project Screenshot:
+[Project Screen](https://unsplash.com/photos/palm-trees-silhouetted-against-a-colorful-tropical-sunset-QQlnH7zqH1A)
