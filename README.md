@@ -20,4 +20,14 @@ To start project use command
 ### Website Link: [ccitworld](http:/www.ccitworld.com)
 
 ### Project Screenshot:
-[Project Screen](https://unsplash.com/photos/palm-trees-silhouetted-against-a-colorful-tropical-sunset-QQlnH7zqH1A)
+[Project Screenshot](https://unsplash.com/photos/palm-trees-silhouetted-against-a-colorful-tropical-sunset-QQlnH7zqH1A)
+
+### First Command
+To start project use `git init` command
+### Code Part:
+```python
+  def hello():
+    print("Hello World!!")
+
+  hello()
+```
